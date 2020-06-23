@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ForeignLanguagePractice</string>
+    <string name="add_phrases">Add Phrases</string>
+    <string name="display_phrases">Display Phrases</string>
+    <string name="edit_phrases">Edit Phrases</string>
+    <string name="edit_phrase">Edit Phrase</string>
+    <string name="language_subscription">Language Subscription</string>
+    <string name="translate">Translate</string>
+    <string name="button">Button</string>
+    <string name="save">Save</string>
+    <string name="language_translator_apikey">yY4eBZ5kLyaqxkkQiYbdAzTQEfcbdze_9s_LluL4ZXAL</string>
+    <string name="language_translator_url">https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/2906843b-ce01-41b7-a365-d8b72d1eebcf</string>
+    <string name="text_speech_apikey">w5nnajxs4ZM1Nu2pI40V5CMx2PvW7wegOzWSwIxYcBIt</string>
+    <string name="text_speech_url">https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/140f4ead-50f0-44f9-9509-e568d33213a6</string>
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+    <string name="offline">Offline</string>
+    <string name="phrase">Phrase</string>
+    <string name="translation">Translation</string>
+    <string name="save_offline">Save Offline</string>
+</resources>
